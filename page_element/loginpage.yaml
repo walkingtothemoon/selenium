@@ -1,0 +1,5 @@
+用户名框: "id==login_field"
+用户名候选: "name==email"
+密码框: "class==u-input box"
+密码候选: "name==password"
+登录按钮: "id=dologin"
